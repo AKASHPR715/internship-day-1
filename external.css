@@ -1,0 +1,17 @@
+p
+{color:rgb(42, 223, 14);}
+
+a 
+{
+    color:blueviolet;
+    text-decoration:none;
+}
+
+th
+{
+    color:rgb(19, 180, 36);
+}
+table, th, td {
+    border: 1px solid ;
+    width: 40%;
+  }
